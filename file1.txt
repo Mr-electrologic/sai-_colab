@@ -1,1 +1,2 @@
 this is file of git bash file1
+welcome to gitbash
